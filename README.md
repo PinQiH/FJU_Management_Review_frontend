@@ -1,2 +1,2 @@
-# -FJU_Management_Review_frontend
-輔仁管理評論
+<h1>輔仁管理評論</h1>
+<p>純前端</p>
